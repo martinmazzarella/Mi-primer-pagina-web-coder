@@ -1,0 +1,35 @@
+body{
+    background-color: #b699d4;
+}
+.titulo1home{
+    color: rgb(27, 0, 61);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3vw;
+    text-align: center;
+    
+}
+.links{ text-decoration: none;
+    color: rgb(27, 0, 61);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4vh
+}
+
+.links{
+    text-align: end;
+    list-style-type: none;
+}
+
+.titulo2{
+        color: #6100C8;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 4vw;}
+.parrafoshome{ 
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 2vw;
+        color: #2C005B;
+    }
+.titulo3{
+        color: #956FBD;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 4vw;
+    }
